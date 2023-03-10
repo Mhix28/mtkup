@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":6,
+   "ConfigVersion":7,
    "ConfigUpdateMsg":"Servers Fix....",
      "ApkVersion":5,
    "ApkUrl":"https://github.com/Mhix28/mtkapp/blob/main/MTKudpBuild2.apk?raw=true",
@@ -12,62 +12,62 @@
       },
       {
          "SubInfo":"Server 2 prm",
-         "Server":"139.59.116.224",
+         "Server":"134.209.96.74",
          "Location":"SG"
       },
       {
          "SubInfo":"Server 3 prm",
-         "Server":"139.59.112.202",
+         "Server":"134.209.110.98",
          "Location":"SG"
       },
       {
          "SubInfo":"Server 4 prm",
-         "Server":"157.230.84.108",
-         "Location":"US"
+         "Server":"165.22.253.205",
+         "Location":"SG"
       },
       {
          "SubInfo":"Server 5 prm",
-         "Server":"167.99.6.218",
-         "Location":"US"
+         "Server":"165.22.100.222",
+         "Location":"SG"
       },
       {
          "SubInfo":"Server 6 prm",
-         "Server":"64.226.80.42",
-         "Location":"DE"
+         "Server":"206.189.35.49",
+         "Location":"SG"
       },
       {
          "SubInfo":"Server 7 prm",
-         "Server":"64.226.80.62",
-         "Location":"DE"
+         "Server":"206.189.37.96",
+         "Location":"SG"
       },
       {
          "SubInfo":"Server 8 prm",
-         "Server":"139.59.124.81",
+         "Server":"165.22.100.244",
          "Location":"SG"
       },
       {
          "SubInfo":"Server 9 prm",
-         "Server":"159.89.200.0",
+         "Server":"206.189.35.176",
          "Location":"SG"
       },
       {
          "SubInfo":"Server 10 prm",
-         "Server":"146.190.88.253",
+         "Server":"165.22.243.23",
          "Location":"SG"
       },
       {
          "SubInfo":"Server 11 prm",
-         "Server":"159.223.44.184",
+         "Server":"206.189.45.1",
          "Location":"SG"
       },
       {
          "SubInfo":"Server 12 prm",
-         "Server":"157.245.194.136",
+         "Server":"167.99.65.193",
          "Location":"SG"
       },
       {
          "SubInfo":"Server 13 prm",
-         "Server":"146.190.84.173",
+         "Server":"165.22.243.157",
          "Location":"SG"
       }
    ]
