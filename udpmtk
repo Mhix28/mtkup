@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":7,
+   "ConfigVersion":8,
    "ConfigUpdateMsg":"Servers Fix....",
      "ApkVersion":5,
    "ApkUrl":"https://github.com/Mhix28/mtkapp/blob/main/MTKudpBuild2.apk?raw=true",
@@ -7,7 +7,7 @@
    "Servers":[
       {
          "SubInfo":"Server 1 prm",
-         "Server":"139.59.126.50",
+         "Server":"159.223.49.205",
          "Location":"SG"
       },
       {
