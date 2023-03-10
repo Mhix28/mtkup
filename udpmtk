@@ -1,1 +1,74 @@
-
+{
+   "ConfigVersion":4,
+   "ConfigUpdateMsg":"Servers Fix....",
+     "ApkVersion":5,
+   "ApkUrl":"https://github.com/Mhix28/mtkapp/blob/main/MTKudpBuild2.apk?raw=true",
+   "ApkMsg":"New Version Detected\n Fix Some Bugs \nFix connecting issue ",
+   "Servers":[
+      {
+         "SubInfo":"Server 1 prm",
+         "Server":"139.59.126.50",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 2 prm",
+         "Server":"139.59.116.224",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 3 prm",
+         "Server":"139.59.112.202",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 4 prm",
+         "Server":"157.230.84.108",
+         "Location":"US"
+      },
+      {
+         "SubInfo":"Server 5 prm",
+         "Server":"167.99.6.218",
+         "Location":"US"
+      },
+      {
+         "SubInfo":"Server 6 prm",
+         "Server":"64.226.80.42",
+         "Location":"DE"
+      },
+      {
+         "SubInfo":"Server 7 prm",
+         "Server":"64.226.80.62",
+         "Location":"DE"
+      },
+      {
+         "SubInfo":"Server 8 prm",
+         "Server":"139.59.124.81",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 9 prm",
+         "Server":"159.89.200.0",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 10 prm",
+         "Server":"146.190.88.253",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 11 prm",
+         "Server":"159.223.44.184",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 12 prm",
+         "Server":"157.245.194.136",
+         "Location":"SG"
+      },
+      {
+         "SubInfo":"Server 13 prm",
+         "Server":"146.190.84.173",
+         "Location":"SG"
+      }
+   ]
+}
