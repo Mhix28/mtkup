@@ -3,12 +3,12 @@
  "Free_servers": [
   {
    "server_name": "Germany 🇩🇪",
-   "server_host": "udp.berangasupervpn.xyz",
+   "server_host": "139.59.124.81",
    "server_port": "",
    "server_udp_port": "",
    "ssl_port": "",
    "category": "Mode-1",
-   "squid_proxy": "udp.berangasupervpn.xyz",
+   "squid_proxy": "139.59.124.81",
    "squid_port": "",
    "dns_proxy": "",
    "custom_cert": "",
@@ -61,6 +61,6 @@
  "Premium_servers": [],
  "Vip_servers": [],
  "Private_servers": [],
- "Version": "1.3",
+ "Version": "1.4",
  "Changelogs": "♥️ Free Internet All Countries ♥️"
 }
