@@ -1,9 +1,123 @@
 {
-  "Version": "3.0",
+  "Version": "4.0",
   "Servers": [
     {
-      "Name": "MTK TEST 01",
-      "ServerIPHost": "146.190.98.158",
+      "Name": "MTK UDP 01",
+      "ServerIPHost": "mtkudp1.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 02",
+      "ServerIPHost": "mtkudp2.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 03",
+      "ServerIPHost": "mtkudp3.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 04",
+      "ServerIPHost": "mtkudp4.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 05",
+      "ServerIPHost": "mtkudp5.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 06",
+      "ServerIPHost": "mtkudp6.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 07",
+      "ServerIPHost": "mtkudp7.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 08",
+      "ServerIPHost": "mtkudp8.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+  },    {
+      "Name": "MTK UDP 09",
+      "ServerIPHost": "mtkudp9.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 10",
+      "ServerIPHost": "mtkudp10.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 11",
+      "ServerIPHost": "mtkudp11.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 12",
+      "ServerIPHost": "mtkudp12.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 13",
+      "ServerIPHost": "mtkudp13.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 14",
+      "ServerIPHost": "mtkudp14.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 15",
+      "ServerIPHost": "mtkudp15.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+  },    {
+      "Name": "MTK UDP 16",
+      "ServerIPHost": "mtkudp16.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 17",
+      "ServerIPHost": "mtkudp17.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 18",
+      "ServerIPHost": "mtkudp18.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 19",
+      "ServerIPHost": "mtkudp19.slowdns.online",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    },    {
+      "Name": "MTK UDP 20",
+      "ServerIPHost": "mtkudp20.slowdns.online",
       "Subname": "Singapore",
       "Protocol": 2,
       "flag": "sg"
