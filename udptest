@@ -1,76 +1,16 @@
 {
- "Payloads": [],
- "Free_servers": [
-  {
-   "server_name": "MTK SERVER 1",
-   "server_host": "146.190.98.158",
-   "server_port": "",
-   "server_udp_port": "",
-   "ssl_port": "",
-   "category": "Mode-1",
-   "squid_proxy": "146.190.98.158",
-   "squid_port": "",
-   "dns_proxy": "",
-   "custom_cert": "",
-   "username": "",
-   "password": ""
-  },  {
-   "server_name": "Server 2",
-   "server_host": "udp.berangasupervpn.xyz",
-   "server_port": "",
-   "server_udp_port": "",
-   "ssl_port": "",
-   "category": "Mode-1",
-   "squid_proxy": "udp.berangasupervpn.xyz",
-   "squid_port": "",
-   "dns_proxy": "",
-   "custom_cert": "",
-   "username": "",
-   "password": ""
-  },  {
-   "server_name": "Server 3",
-   "server_host": "udp.berangasupervpn.xyz",
-   "server_port": "",
-   "server_udp_port": "",
-   "ssl_port": "",
-   "category": "Mode-1",
-   "squid_proxy": "udp.berangasupervpn.xyz",
-   "squid_port": "",
-   "dns_proxy": "",
-   "custom_cert": "",
-   "username": "",
-   "password": ""
-  },  {
-   "server_name": "Server 4",
-   "server_host": "udp.berangasupervpn.xyz",
-   "server_port": "",
-   "server_udp_port": "",
-   "ssl_port": "",
-   "category": "Mode-1",
-   "squid_proxy": "udp.berangasupervpn.xyz",
-   "squid_port": "",
-   "dns_proxy": "",
-   "custom_cert": "",
-   "username": "",
-   "password": ""
-  } , {
-   "server_name": "Server 5",
-   "server_host": "udp.berangasupervpn.xyz",
-   "server_port": "",
-   "server_udp_port": "",
-   "ssl_port": "",
-   "category": "Mode-1",
-   "squid_proxy": "udp.berangasupervpn.xyz",
-   "squid_port": "",
-   "dns_proxy": "",
-   "custom_cert": "",
-   "username": "",
-   "password": ""
-  }
- ],
- "Premium_servers": [],
- "Vip_servers": [],
- "Private_servers": [],
- "Version": "2.0",
- "Changelogs": "♥️ Free Internet All Countries ♥️"
+  "Version": "2.0",
+  "Servers": [
+    {
+      "Name": "MTK SERVER 01",
+      "ServerIPHost": "146.190.98.158",
+      "Subname": "Singapore",
+      "Protocol": 2,
+      "flag": "sg"
+    }
+  ],
+  "Networks": [],
+  "Username": "",
+  "Password": "",
+  "Notes": "• Optimized Servers\n\nPa share po ng app natin para madami papo tayo matulungan\n\nThank you for supporting ❤️"
 }
