@@ -1,1 +1,76 @@
-{"ConfigVersion": "2","ConfigUpdateMsg": "MTK","ApkVersion": 1,"ApkUrl": "https://play.google.com/store/apps/details?id=vpn.jx.main","ApkMsg": "Good","Servers": [{"SubInfo":"Server 2 prm","Server":"157.245.158.237","Location":"SG"},{"SubInfo":"Server 1 prm","Server":"157.245.158.228","Location":"SG"},{"SubInfo":"Server 3 prm","Server":"157.245.158.220","Location":"SG"},{"SubInfo":"Server 4 prm","Server":"159.223.58.61","Location":"SG"},{"SubInfo":"Server 5 prm","Server":"159.223.49.205","Location":"SG"},{"SubInfo":"Server 6 prm","Server":"159.223.58.98","Location":"SG"},{"SubInfo":"Server 7 prm","Server":"143.198.88.69","Location":"SG"},{"SubInfo":"Server 8 prm","Server":"178.128.93.81","Location":"SG"},{"SubInfo":"Server 9 prm","Server":"178.128.85.72","Location":"SG"},{"SubInfo":"Server 10 prm","Server":"128.199.203.5","Location":"SG"},{"SubInfo":"Server 11 prm","Server":"128.199.202.63","Location":"SG"},{"SubInfo":"Server 12 prm","Server":"178.128.93.63","Location":"SG"},{"SubInfo":"Server 13 prm","Server":"128.199.201.209","Location":"SG"},{"SubInfo":"Server 14 prm","Server":"68.183.239.51","Location":"SG"},{"SubInfo":"Server 15 prm","Server":"128.199.201.16","Location":"SG"},{"SubInfo":"Server 16 prm","Server":"68.183.236.207","Location":"SG"},{"SubInfo":"Server 17 prm","Server":"178.128.109.114","Location":"SG"},{"SubInfo":"Server 18 prm","Server":"157.245.206.77","Location":"SG"},{"SubInfo":"Server 19 prm","Server":"157.245.204.158","Location":"SG"},{"SubInfo":"Server 20 prm","Server":"157.245.198.59","Location":"SG"},{"SubInfo":"Server 21 prm","Server":"146.190.84.173","Location":"SG"},{"SubInfo":"Server 22 prm","Server":"157.245.194.136","Location":"SG"},{"SubInfo":"Server 23 prm","Server":"159.223.44.184","Location":"SG"},{"SubInfo":"Server 24 prm","Server":"146.190.88.253","Location":"SG"},{"SubInfo":"Server 25 prm","Server":"159.89.200.0","Location":"SG"},{"SubInfo":"Server 26 prm","Server":"139.59.124.81","Location":"SG"},{"SubInfo":"Server 27 prm","Server":"139.59.112.202","Location":"SG"},{"SubInfo":"Server 28 prm","Server":"139.59.116.224","Location":"SG"},{"SubInfo":"Server 29 prm","Server":"139.59.126.50","Location":"SG"},{"SubInfo":"Server 30 prm","Server":"64.226.80.62","Location":"DE"},{"SubInfo":"Server 31 prm","Server":"64.226.80.42","Location":"DE"},{"SubInfo":"Server 32 prm","Server":"157.230.84.108","Location":"US"},{"SubInfo":"Server 33 prm","Server":"167.99.6.218","Location":"US"}]}
+{
+ "Payloads": [],
+ "Free_servers": [
+  {
+   "server_name": "MTK SERVER 1",
+   "server_host": "146.190.98.158",
+   "server_port": "",
+   "server_udp_port": "",
+   "ssl_port": "",
+   "category": "Mode-1",
+   "squid_proxy": "146.190.98.158",
+   "squid_port": "",
+   "dns_proxy": "",
+   "custom_cert": "",
+   "username": "",
+   "password": ""
+  },  {
+   "server_name": "Server 2",
+   "server_host": "udp.berangasupervpn.xyz",
+   "server_port": "",
+   "server_udp_port": "",
+   "ssl_port": "",
+   "category": "Mode-1",
+   "squid_proxy": "udp.berangasupervpn.xyz",
+   "squid_port": "",
+   "dns_proxy": "",
+   "custom_cert": "",
+   "username": "",
+   "password": ""
+  },  {
+   "server_name": "Server 3",
+   "server_host": "udp.berangasupervpn.xyz",
+   "server_port": "",
+   "server_udp_port": "",
+   "ssl_port": "",
+   "category": "Mode-1",
+   "squid_proxy": "udp.berangasupervpn.xyz",
+   "squid_port": "",
+   "dns_proxy": "",
+   "custom_cert": "",
+   "username": "",
+   "password": ""
+  },  {
+   "server_name": "Server 4",
+   "server_host": "udp.berangasupervpn.xyz",
+   "server_port": "",
+   "server_udp_port": "",
+   "ssl_port": "",
+   "category": "Mode-1",
+   "squid_proxy": "udp.berangasupervpn.xyz",
+   "squid_port": "",
+   "dns_proxy": "",
+   "custom_cert": "",
+   "username": "",
+   "password": ""
+  } , {
+   "server_name": "Server 5",
+   "server_host": "udp.berangasupervpn.xyz",
+   "server_port": "",
+   "server_udp_port": "",
+   "ssl_port": "",
+   "category": "Mode-1",
+   "squid_proxy": "udp.berangasupervpn.xyz",
+   "squid_port": "",
+   "dns_proxy": "",
+   "custom_cert": "",
+   "username": "",
+   "password": ""
+  }
+ ],
+ "Premium_servers": [],
+ "Vip_servers": [],
+ "Private_servers": [],
+ "Version": "2.0",
+ "Changelogs": "♥️ Free Internet All Countries ♥️"
+}
