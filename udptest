@@ -1,15 +1,44 @@
 {
-  "Version": "2.0",
+  "Version": "3.0",
   "Servers": [
     {
-      "Name": "MTK SERVER 01",
+      "Name": "MTK TEST 01",
       "ServerIPHost": "146.190.98.158",
       "Subname": "Singapore",
       "Protocol": 2,
       "flag": "sg"
     }
   ],
-  "Networks": [],
+  "Networks": [
+    {
+      "Name": "Globe\/TM No Load 01",
+      "Payload": "",
+      "Info": "302 Found | IP Hunt Tricks",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "",
+        "Port": "80"
+      }
+    }
+  ],
+  "SSLNetworks": [
+    {
+      "Name": "",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "UNLIMITED | BYPASS",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "EnableWS": false,
+      "ProxySettings": {
+        "Squid": "",
+        "Port": ""
+      }
+    }
+  ],
   "Username": "",
   "Password": "",
   "Notes": "• Optimized Servers\n\nPa share po ng app natin para madami papo tayo matulungan\n\nThank you for supporting ❤️"
