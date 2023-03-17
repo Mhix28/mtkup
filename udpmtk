@@ -1,74 +1,15 @@
 {
-   "ConfigVersion":8,
+   "ConfigVersion":9,
    "ConfigUpdateMsg":"Servers Fix....",
      "ApkVersion":5,
    "ApkUrl":"https://github.com/Mhix28/mtkapp/blob/main/MTKudpBuild2.apk?raw=true",
    "ApkMsg":"New Version Detected\n Fix Some Bugs \nFix connecting issue ",
    "Servers":[
       {
-         "SubInfo":"Server 1 prm",
+         "SubInfo":"Go to Udp Pro",
          "Server":"159.223.49.205",
          "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 2 prm",
-         "Server":"134.209.96.74",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 3 prm",
-         "Server":"134.209.110.98",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 4 prm",
-         "Server":"165.22.253.205",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 5 prm",
-         "Server":"165.22.100.222",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 6 prm",
-         "Server":"206.189.35.49",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 7 prm",
-         "Server":"206.189.37.96",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 8 prm",
-         "Server":"165.22.100.244",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 9 prm",
-         "Server":"206.189.35.176",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 10 prm",
-         "Server":"165.22.243.23",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 11 prm",
-         "Server":"206.189.45.1",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 12 prm",
-         "Server":"167.99.65.193",
-         "Location":"SG"
-      },
-      {
-         "SubInfo":"Server 13 prm",
-         "Server":"165.22.243.157",
-         "Location":"SG"
+
       }
    ]
 }
